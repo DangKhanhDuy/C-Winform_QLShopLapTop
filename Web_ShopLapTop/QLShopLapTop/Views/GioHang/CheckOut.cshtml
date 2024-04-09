@@ -1,0 +1,141 @@
+﻿@model List<QLShopLapTop.Models.GioHang>
+@{
+    ViewBag.Title = "CheckOut";
+    Layout = "~/Views/Shared/UserView.cshtml";
+}
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>CheckOut</title>
+    <!-- Đưa các kiểu CSS vào một file riêng để tách biệt -->
+    <!-- <link rel="stylesheet" href="đường_dẫn_tới_file_css.css" /> -->
+</head>
+<body>
+    <table class="table" border="1">
+        @{
+            double tong = 0;
+        }
+       @if (Model != null)
+        {
+            foreach (var item in Model)
+            {
+                if (item != null)
+                {
+                    <tr>
+                        <th>
+                            Mã sản phẩm
+                        </th>
+                        <th>
+                            Tên sản phẩm
+                        </th>
+                        <th>
+                            Số lượng
+                        </th>
+                        <th>
+                            Giá bán 
+                        </th>
+                        <th>
+                            Tổng tiền
+                        </th>
+                    </tr>
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.pMaSP)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.pTenSP)
+                        </td>
+                        <td>
+                            <form action="@Url.Action("CapNhatGioHang", "GioHang")" method="post">
+                                <input type="hidden" name="MaSP" value="@item.pMaSP" />
+                                <input type="number" min="1" step="1" name="newAmount" value="@item.pSoLuong" />
+                                <button type="submit" class="btn btn-primary btn-sm"> Cập nhật </button>
+                            </form>
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.pDonGia)
+                        </td>
+                        <td>
+                            @if (item.pSoLuong != null && item.pDonGia != null)
+                            {
+                                @(item.pSoLuong * item.pDonGia)
+                            }
+                        </td>
+                        <td>
+                            <a href="/GioHang/XoaGioHang/@item.pMaSP">Xóa</a>
+                        </td>
+                    </tr>
+                }
+            }
+        }
+
+    </table>
+    <!-- Content Layout -->
+    <div class="container" >
+        <div class="row" >
+            <!-- Left Content (Shopping Cart) -->
+            <div style="margin: 0px 0px 0px 350px">
+                <table class="table table-responsive shopping-cart-table" style="text-align:center">
+
+                    <!-- Your shopping cart content here -->
+                    <tr>
+                        <td><h3>THÔNG TIN THANH TOÁN</h3></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            
+                            
+                            @using (Html.BeginForm("SendMail", "GioHang", FormMethod.Post))
+                            {
+                                <div class="form-group">
+                                    <label for="mail">Email:</label>
+                                    <input type="email" class="form-control" name="mail" id="mail" required />
+                                </div>
+                                <div class="form-group">
+                                    <label for="name">Họ tên:</label>
+                                    <input type="text" class="form-control" name="name" id="name" required />
+                                </div>
+                                <div class="form-group">
+                                    <label for="ngaySinh">Ngày sinh:</label>
+                                    <input type="date" class="form-control" name="ngaySinh" id="ngaySinh" required />
+                                </div>
+                                <div class="form-group">
+                                    <label for="SĐT">SĐT:</label>
+                                    <input type="tel" class="form-control" name="SDT" id="SDT" required />
+                                </div>
+                                <div class="form-group">
+                                    <label for="address">Địa chỉ:</label>
+                                    <input type="text" class="form-control" name="address" id="address" required />
+                                </div>
+                               
+      
+                                <button type="submit" class="btn btn-primary">Thanh toán</button>
+                                <a href="@Url.Action("ShowSanPham", "SanPham")" class="btn btn-secondary">Tiếp tục mua hàng</a>
+                                
+                            }
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!-- Right Content (Other Content) -->
+            <div class="col-md-6">
+                
+                
+            </div>
+        </div>
+    </div>
+
+    <style>
+        /* Add this style to your CSS */
+        .shopping-cart-table {
+            border: none;
+        }
+    </style>
+
+
+
+
+</body>
+</html>

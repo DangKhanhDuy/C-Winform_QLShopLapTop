@@ -1,0 +1,226 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>UserLayout</title>
+    <!--Bootstrap 4-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" />
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="container-view" style="width: 100%">
+        <!--NAVIGATION-->
+        <!-- <div class="container-fluid"> -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand row" href="#" style="padding-left: 2rem"><img src="/Images/phukien.JPG" width="30%" class="rounded" /></a>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent" style="margin-left: -60px">
+                <ul class="navbar-nav mb-2 mb-lg-0" style="margin-left: 0px">
+                    <li class="nav-item nav-link">
+                        @Html.ActionLink("TRANG CHỦ", "", "", null, new { style = "color: black; font-weight: bold; font-size: 20px" })
+                    </li>
+                    <li class="nav-item nav-link" style="text-decoration-color: green">
+                        @*<a href="#">Đăng Ký</a>*@
+                        @Html.ActionLink("ĐĂNG KÝ", "DangKy", "NguoiDung", null, new { style = "color: black; font-weight: bold; font-size: 20px" })
+                    </li>
+                    <li class="nav-item nav-link">
+                        @*<a href="#">Đăng Nhập</a>*@
+                        @Html.ActionLink("ĐĂNG NHẬP", "DangNhap", "NguoiDung", null, new { style = "color: black; font-weight: bold; font-size: 20px" })
+                    </li>
+                    <li class="nav-item nav-link">
+                        @*<a href="#">Liên Hệ</a>*@
+                        @Html.ActionLink("LIÊN HỆ", "LienHe", "Paper", null, new { style = "color: black; font-weight: bold; font-size: 20px" })
+                    </li>
+                    <li class="nav-item dropdown">
+                        <button type="button" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" style="width: 200px; margin: 10px auto; border: none; background-color: #F8F9FA;font-weight: bold">
+                            DANH MỤC
+                        </button>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown" >
+                            <li><a class="dropdown-item" href="@Url.Action("ShowSanPham", "SanPham")"><img src="/Images/logo.png"  width="50px" height="30px"/>LapTop</a></li>
+                            <li><a class="dropdown-item" href="@Url.Action("SanPhamTheoNCC", "SanPham")"><img src="/Images/ncc.png" width="50px" height="30px" />Hãng</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <input class="form-control" style=" width:200px; margin-left: 20px" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-link" type="submit"><img src="/Images/search.JPG" /></button>
+
+                <ul style=" margin: 0px auto; padding-bottom: 13px; padding-left: 0px">
+                    <li class="nav-item nav-link">
+                        @Html.Action("ShowGioHang", "GioHang")
+                    </li>
+                </ul>
+            </div>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent1">
+                <ul class="navbar-nav mr-auto mb-2 mb-lg-0">
+                    <li class="nav-item dropdown">
+                        <a>
+                            @if (Session["SDT"] != null)
+                            {
+                                var khachHang = (QLShopLapTop.Models.KHACHHANG)Session["SDT"];
+                                string tenKhachHang = khachHang.TenKH;
+
+                                <div>
+                                    Xin chào 
+                                    <p>@tenKhachHang!</p>
+                                </div>
+                            }
+                            @if (Session["SDT"] != null)
+                            {
+                                <a href="@Url.Action("DangXuat", "NguoiDung")">Đăng Xuất</a>
+                            }
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <div class="none-mg" style="background-color:darkorange; text-align:center; display: flex; flex-wrap: wrap; margin-right: 0px; margin-left: 0px;">
+            <div class="col " style="background-color: lavender; margin: 0 auto; width: 80  %">
+                <div class="row">
+                    <div class="col">
+                        <div id="carouselExampleControls" class="carousel w-100 mx-auto mt-3" data-ride="carousel">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img src="/Images/banner1.jpg" class="d-block w-100 " width="500px" height="500px" alt="Ảnh 1" />
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="/Images/banner2.png" class="d-block w-100" width="500px" height="500px" alt="Ảnh 2" />
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="/Images/banner3.jpg" class="d-block w-100 " width="500px" height="500px" alt="Ảnh 3" />
+                                </div>
+                                <div class="carousel-item">
+                                    <img src="/Images/banner4.jpg" class="d-block w-100 " width="500px" height="500px" alt="Ảnh 3" />
+                                </div>
+                            </div>
+                            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="sr-only">Previous</span>
+                            </a>
+                            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="sr-only">Next</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div style="text-align: center">
+                    <br />
+                    @RenderBody()
+                    <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+                    <df-messenger intent="WELCOME"
+                                  chat-title="FCB LAPTOP"
+                                  agent-id="a492b26a-c295-4869-a71f-eebf837ca42d"
+                                  language-code="vi">
+                    </df-messenger>
+                </div>
+            </div>
+        </div>
+
+        <!--Footer-->
+    </div>
+    <div class="container-fluid bg-dark text-white-50 footer pt-5 mt-5">
+        <div class="container py-5">
+            <div class="pb-4 mb-4" style="border-bottom: 1px solid rgba(226, 175, 24, 0.5) ;">
+                <div class="row g-4">
+                    <div class="col-lg-3">
+                        <a href="#">
+                            <h1 class="text-primary mb-0">SHOPLAPTOP</h1>
+                            <p class="text-secondary mb-0">Buy Someone</p>
+                        </a>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="position-relative mx-auto">
+                            <input class="form-control border-0 w-100 py-3 px-4 rounded-pill" type="number" placeholder="Your Email">
+                            <button type="submit" class="btn btn-primary border-0 border-secondary py-3 px-4 position-absolute rounded-pill text-white" style="top: 0; right: 0;">Subscribe Now</button>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="d-flex justify-content-end pt-3">
+                            <a class="btn btn-outline-secondary me-2 btn-md-square rounded-circle" href="https://www.facebook.com">FaceBook</a>
+                            <a class="btn btn-outline-secondary me-2 btn-md-square rounded-circle" href="">Youtube</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row g-5">
+                <div class="col-lg-3 col-md-6">
+                    <div class="footer-item" >
+                        <h4 class="text-light mb-3">Why People Like us!</h4>
+                        <p class="mb-4" style="color: orange">
+                            typesetting, remaining essentially unchanged. It was
+                            popularised in the 1960s with the like Aldus PageMaker including of Lorem Ipsum.
+                        </p>
+                        <a href="" class="btn border-secondary py-2 px-4 rounded-pill text-primary">Read More</a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="d-flex flex-column text-start footer-item">
+                        <h4 class="text-light mb-3">Shop Info</h4>
+                        <a class="btn-link" href="">About Us</a>
+                        <a class="btn-link" href="">Contact Us</a>
+                        <a class="btn-link" href="">Privacy Policy</a>
+                        <a class="btn-link" href="">Terms &amp; Condition</a>
+                        <a class="btn-link" href="">Return Policy</a>
+                        <a class="btn-link" href="">FAQs &amp; Help</a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="d-flex flex-column text-start footer-item" >
+                        <h4 class="text-light mb-3">Account</h4>
+                        <a class="btn-link" href="">My Account</a>
+                        <a class="btn-link" href="">Shop details</a>
+                        <a class="btn-link" href="">Shopping Cart</a>
+                        <a class="btn-link" href="">Wishlist</a>
+                        <a class="btn-link" href="">Order History</a>
+                        <a class="btn-link" href="">International Orders</a>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6" >
+                    <div class="footer-item" style="color: orange">
+                        <h4 class="text-light mb-3">Contact</h4>
+                        <p>Address: 140 Lê Trọng Tấn, Tân Phú, Tp.HCM</p>
+                        <p>Email: FCBLapTop@gmail.com</p>
+                        <p>Phone: +0123 123 456</p>
+                        <p>Payment Accepted</p>
+                        <img src="~/Images/VietNamFlag.jpg" class="img-fluid" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Footer End -->
+    <!-- Copyright Start -->
+    <div class="container-fluid copyright bg-dark py-4">
+        <div class="container">
+            <div class="row">
+                <div class="col text-light mt-3 mb-3" style="text-align:center;">
+                    Khoa Công nghệ Thông tin - Trường Đại học Công nghiệp Thực phẩm Tp.HCM<br />
+                    Địa chỉ: 140 Lê Trọng Tấn, Phường Tây Thạnh, Quận Tân Phú, Tp.HCM. ĐT: (028).38161673 (ext 136) Mail: kcntt@hufi.edu.vn
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Copyright End -->
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-primary border-3 border-primary rounded-circle back-to-top" style="display: none;"><i class="fa fa-arrow-up"></i></a>
+
+    <!-- JavaScript Libraries -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/Content/lib/easing/easing.min.js"></script>
+    <script src="~/Content/lib/waypoints/waypoints.min.js"></script>
+    <script src="~/Content/lib/lightbox/js/lightbox.min.js"></script>
+    <script src="~/Content/lib/owlcarousel/owl.carousel.min.js"></script>
+    <!-- Template Javascript -->
+    <script src="~/Content/js/main.js"></script>
+
+    <div id="lightboxOverlay" tabindex="-1" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" tabindex="-1" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt=""><div class="lb-nav"><a class="lb-prev" role="button" tabindex="0" aria-label="Previous image" href=""></a><a class="lb-next" role="button" tabindex="0" aria-label="Next image" href=""></a></div><div class="lb-loader"><a class="lb-cancel" role="button" tabindex="0"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close" role="button" tabindex="0"></a></div></div></div></div>
+</body>
+</body>
+</html>

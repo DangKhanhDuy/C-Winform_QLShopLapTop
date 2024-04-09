@@ -1,0 +1,31 @@
+D:\HOCTAP\PTUDPMTM\QLShopLaptop\DTO\bin\Debug\DTO.dll
+D:\HOCTAP\PTUDPMTM\QLShopLaptop\DTO\bin\Debug\DTO.pdb
+D:\HOCTAP\PTUDPMTM\QLShopLaptop\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\HOCTAP\PTUDPMTM\QLShopLaptop\DTO\obj\Debug\DTO.dll
+D:\HOCTAP\PTUDPMTM\QLShopLaptop\DTO\obj\Debug\DTO.pdb
+D:\HOCTAP\QLBanLaptop\DTO\bin\Debug\DTO.dll
+D:\HOCTAP\QLBanLaptop\DTO\bin\Debug\DTO.pdb
+D:\HOCTAP\QLBanLaptop\DTO\obj\Debug\DTO.dll
+D:\HOCTAP\QLBanLaptop\DTO\obj\Debug\DTO.pdb
+E:\QLShopLaptop\DTO\bin\Debug\DTO.dll
+E:\QLShopLaptop\DTO\bin\Debug\DTO.pdb
+E:\QLShopLaptop\DTO\obj\Debug\DTO.dll
+E:\QLShopLaptop\DTO\obj\Debug\DTO.pdb
+C:\Users\ASUS\Videos\QLShopLaptop\DTO\bin\Debug\DTO.dll
+C:\Users\ASUS\Videos\QLShopLaptop\DTO\bin\Debug\DTO.pdb
+C:\Users\ASUS\Videos\QLShopLaptop\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Videos\QLShopLaptop\DTO\obj\Debug\DTO.dll
+C:\Users\ASUS\Videos\QLShopLaptop\DTO\obj\Debug\DTO.pdb
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\DTO\bin\Debug\DTO.dll
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\DTO\bin\Debug\DTO.pdb
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\DTO\obj\Debug\DTO.dll
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\DTO\obj\Debug\DTO.pdb
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\DTO\bin\Debug\DTO.dll
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\DTO\bin\Debug\DTO.pdb
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\DTO\obj\Debug\DTO.dll
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\DTO\obj\Debug\DTO.pdb
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\DTO\bin\Debug\DTO.dll
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\DTO\bin\Debug\DTO.pdb
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\DTO\obj\Debug\DTO.dll
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\DTO\obj\Debug\DTO.pdb

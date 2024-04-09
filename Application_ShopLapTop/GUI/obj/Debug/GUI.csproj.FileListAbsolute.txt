@@ -1,0 +1,184 @@
+D:\HOCTAP\PTUDPMTM\QLShopLaptop\GUI\bin\Debug\GUI.exe.config
+D:\HOCTAP\QLBanLaptop\GUI\bin\Debug\GUI.exe.config
+D:\HOCTAP\QLBanLaptop\GUI\bin\Debug\GUI.exe
+D:\HOCTAP\QLBanLaptop\GUI\bin\Debug\GUI.pdb
+D:\HOCTAP\QLBanLaptop\GUI\bin\Debug\DTO.dll
+D:\HOCTAP\QLBanLaptop\GUI\bin\Debug\DTO.pdb
+D:\HOCTAP\QLBanLaptop\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\HOCTAP\QLBanLaptop\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HOCTAP\QLBanLaptop\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\HOCTAP\QLBanLaptop\GUI\obj\Debug\GUI.exe
+D:\HOCTAP\QLBanLaptop\GUI\obj\Debug\GUI.pdb
+D:\HOCTAP\QLBanLaptop\GUI\bin\Debug\BLL.dll
+D:\HOCTAP\QLBanLaptop\GUI\bin\Debug\DAL.dll
+D:\HOCTAP\QLBanLaptop\GUI\bin\Debug\BLL.pdb
+D:\HOCTAP\QLBanLaptop\GUI\bin\Debug\DAL.pdb
+D:\HOCTAP\QLBanLaptop\GUI\obj\Debug\GUI.FormDangNhap.resources
+D:\HOCTAP\QLBanLaptop\GUI\obj\Debug\GUI.FormDoiMatKhau.resources
+D:\HOCTAP\QLBanLaptop\GUI\obj\Debug\GUI.FormSanPham.resources
+D:\HOCTAP\QLBanLaptop\GUI\obj\Debug\GUI.FormTrangChu.resources
+D:\HOCTAP\QLBanLaptop\GUI\bin\Debug\ThietKeControls.dll
+D:\HOCTAP\QLBanLaptop\GUI\bin\Debug\ThietKeControls.pdb
+D:\HOCTAP\QLBanLaptop\GUI\obj\Debug\GUI.FormKhachHang.resources
+D:\HOCTAP\QLBanLaptop\GUI\obj\Debug\GUI.Form1.resources
+D:\HOCTAP\QLBanLaptop\GUI\bin\Debug\FontAwesome.Sharp.dll
+E:\QLShopLaptop\GUI\bin\Debug\GUI.exe.config
+E:\QLShopLaptop\GUI\obj\Debug\GUI.exe
+E:\QLShopLaptop\GUI\obj\Debug\GUI.pdb
+E:\QLShopLaptop\GUI\bin\Debug\GUI.exe
+E:\QLShopLaptop\GUI\bin\Debug\GUI.pdb
+E:\QLShopLaptop\GUI\bin\Debug\BLL.dll
+E:\QLShopLaptop\GUI\bin\Debug\DTO.dll
+E:\QLShopLaptop\GUI\bin\Debug\FontAwesome.Sharp.dll
+E:\QLShopLaptop\GUI\bin\Debug\ThietKeControls.dll
+E:\QLShopLaptop\GUI\bin\Debug\DAL.dll
+E:\QLShopLaptop\GUI\bin\Debug\BLL.pdb
+E:\QLShopLaptop\GUI\bin\Debug\DTO.pdb
+E:\QLShopLaptop\GUI\bin\Debug\ThietKeControls.pdb
+E:\QLShopLaptop\GUI\bin\Debug\DAL.pdb
+E:\QLShopLaptop\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\QLShopLaptop\GUI\obj\Debug\GUI.FormDangNhap.resources
+E:\QLShopLaptop\GUI\obj\Debug\GUI.FormDoiMatKhau.resources
+E:\QLShopLaptop\GUI\obj\Debug\GUI.FormKhachHang.resources
+E:\QLShopLaptop\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\QLShopLaptop\GUI\obj\Debug\GUI.FormSanPham.resources
+E:\QLShopLaptop\GUI\obj\Debug\GUI.FormTrangChu.resources
+E:\QLShopLaptop\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\QLShopLaptop\GUI\obj\Debug\GUI.FormNhaCungCap.resources
+E:\QLShopLaptop\GUI\obj\Debug\GUI.FormNhanVien.resources
+E:\QLShopLaptop\GUI\obj\Debug\GUI.FormKhoHang.resources
+E:\QLShopLaptop\GUI\obj\Debug\GUI.FormDonHang.resources
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\bin\Debug\GUI.exe.config
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\obj\Debug\GUI.exe
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\obj\Debug\GUI.pdb
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\bin\Debug\GUI.exe
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\bin\Debug\GUI.pdb
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\bin\Debug\BLL.dll
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\bin\Debug\DTO.dll
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\bin\Debug\ThietKeControls.dll
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\bin\Debug\DAL.dll
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\bin\Debug\BLL.pdb
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\bin\Debug\DTO.pdb
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\bin\Debug\ThietKeControls.pdb
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\bin\Debug\DAL.pdb
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\obj\Debug\GUI.FormDangNhap.resources
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\obj\Debug\GUI.FormDonHang.resources
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\obj\Debug\GUI.FormKhoHang.resources
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\obj\Debug\GUI.FormTrangChu.resources
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\obj\Debug\GUI.FormDoiMatKhau.resources
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\obj\Debug\GUI.FormKhachHang.resources
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\obj\Debug\GUI.FormNhaCungCap.resources
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\obj\Debug\GUI.FormNhanVien.resources
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\obj\Debug\GUI.FormSanPham.resources
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\ASUS\Videos\QLShopLaptop\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\GUI.exe.config
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.exe
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.pdb
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\GUI.exe
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\GUI.pdb
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\BLL.dll
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\DTO.dll
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\FontAwesome.Sharp.dll
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\ThietKeControls.dll
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\DAL.dll
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\BLL.pdb
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\DTO.pdb
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\ThietKeControls.pdb
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\DAL.pdb
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.FormDangNhap.resources
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.FormDonHang.resources
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.FormKhoHang.resources
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.FormTrangChu.resources
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.FormDoiMatKhau.resources
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.FormKhachHang.resources
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.FormNhaCungCap.resources
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.FormNhanVien.resources
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.FormSanPham.resources
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.FormHoaDon.resources
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\GUI.exe.config
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.exe
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.pdb
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\GUI.exe
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\GUI.pdb
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\BLL.dll
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\DTO.dll
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\ThietKeControls.dll
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\DAL.dll
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\BLL.pdb
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\DTO.pdb
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\ThietKeControls.pdb
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\bin\Debug\DAL.pdb
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.FormDangNhap.resources
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.FormHoaDon.resources
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.FormKhoHang.resources
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.FormTrangChu.resources
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.FormDoiMatKhau.resources
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.FormKhachHang.resources
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.FormNhaCungCap.resources
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.FormNhanVien.resources
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.FormSanPham.resources
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\bin\Debug\GUI.exe.config
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\obj\Debug\GUI.exe
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\obj\Debug\GUI.pdb
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\bin\Debug\GUI.exe
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\bin\Debug\GUI.pdb
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\bin\Debug\BLL.dll
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\bin\Debug\DTO.dll
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\bin\Debug\FontAwesome.Sharp.dll
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\bin\Debug\ThietKeControls.dll
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\bin\Debug\DAL.dll
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\bin\Debug\BLL.pdb
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\bin\Debug\DTO.pdb
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\bin\Debug\ThietKeControls.pdb
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\bin\Debug\DAL.pdb
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\obj\Debug\GUI.FormDangNhap.resources
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\obj\Debug\GUI.FormHoaDon.resources
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\obj\Debug\GUI.FormKhoHang.resources
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\obj\Debug\GUI.FormTrangChu.resources
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\obj\Debug\GUI.FormDoiMatKhau.resources
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\obj\Debug\GUI.FormKhachHang.resources
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\obj\Debug\GUI.FormNhaCungCap.resources
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\obj\Debug\GUI.FormNhanVien.resources
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\obj\Debug\GUI.FormSanPham.resources
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\bin\Debug\GUI.exe.config
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\obj\Debug\GUI.exe
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\obj\Debug\GUI.pdb
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\bin\Debug\GUI.exe
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\bin\Debug\GUI.pdb
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\bin\Debug\BLL.dll
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\bin\Debug\DTO.dll
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\bin\Debug\ThietKeControls.dll
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\bin\Debug\DAL.dll
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\bin\Debug\BLL.pdb
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\bin\Debug\DTO.pdb
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\bin\Debug\ThietKeControls.pdb
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\bin\Debug\DAL.pdb
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\obj\Debug\GUI.FormDangNhap.resources
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\obj\Debug\GUI.FormHoaDon.resources
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\obj\Debug\GUI.FormKhoHang.resources
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\obj\Debug\GUI.FormTrangChu.resources
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\obj\Debug\GUI.FormDoiMatKhau.resources
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\obj\Debug\GUI.FormKhachHang.resources
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\obj\Debug\GUI.FormNhaCungCap.resources
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\obj\Debug\GUI.FormNhanVien.resources
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\obj\Debug\GUI.FormSanPham.resources
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\Application_ShopLapTop\GUI\bin\Debug\GUI.exe.config
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\Application_ShopLapTop\GUI\obj\Debug\GUI.exe
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\Application_ShopLapTop\GUI\obj\Debug\GUI.pdb

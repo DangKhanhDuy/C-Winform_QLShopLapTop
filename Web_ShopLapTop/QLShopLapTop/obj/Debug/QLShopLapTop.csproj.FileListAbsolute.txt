@@ -1,0 +1,36 @@
+D:\Ki1Nam4\PTUDTM\QLShopLapTop\QLShopLapTop\bin\QLShopLapTop.dll.config
+D:\Ki1Nam4\PTUDTM\QLShopLapTop\QLShopLapTop\bin\QLShopLapTop.dll
+D:\Ki1Nam4\PTUDTM\QLShopLapTop\QLShopLapTop\bin\QLShopLapTop.pdb
+D:\Ki1Nam4\PTUDTM\QLShopLapTop\QLShopLapTop\bin\System.Web.Helpers.dll
+D:\Ki1Nam4\PTUDTM\QLShopLapTop\QLShopLapTop\bin\System.Web.Mvc.dll
+D:\Ki1Nam4\PTUDTM\QLShopLapTop\QLShopLapTop\bin\System.Web.Razor.dll
+D:\Ki1Nam4\PTUDTM\QLShopLapTop\QLShopLapTop\bin\System.Web.Webpages.Deployment.dll
+D:\Ki1Nam4\PTUDTM\QLShopLapTop\QLShopLapTop\bin\System.Web.Webpages.dll
+D:\Ki1Nam4\PTUDTM\QLShopLapTop\QLShopLapTop\bin\System.Web.Webpages.Razor.dll
+D:\Ki1Nam4\PTUDTM\QLShopLapTop\QLShopLapTop\bin\System.Web.Razor.xml
+D:\Ki1Nam4\PTUDTM\QLShopLapTop\QLShopLapTop\bin\System.Web.Webpages.xml
+D:\Ki1Nam4\PTUDTM\QLShopLapTop\QLShopLapTop\bin\System.Web.Webpages.Deployment.xml
+D:\Ki1Nam4\PTUDTM\QLShopLapTop\QLShopLapTop\bin\System.Web.Webpages.Razor.xml
+D:\Ki1Nam4\PTUDTM\QLShopLapTop\QLShopLapTop\bin\System.Web.Helpers.xml
+D:\Ki1Nam4\PTUDTM\QLShopLapTop\QLShopLapTop\bin\System.Web.Mvc.xml
+D:\Ki1Nam4\PTUDTM\QLShopLapTop\QLShopLapTop\obj\Debug\QLShopLapTop.csprojResolveAssemblyReference.cache
+D:\Ki1Nam4\PTUDTM\QLShopLapTop\QLShopLapTop\obj\Debug\QLShopLapTop.dll
+D:\Ki1Nam4\PTUDTM\QLShopLapTop\QLShopLapTop\obj\Debug\QLShopLapTop.pdb
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Web_ShopLapTop\QLShopLapTop\bin\QLShopLapTop.dll.config
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Web_ShopLapTop\QLShopLapTop\bin\QLShopLapTop.dll
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Web_ShopLapTop\QLShopLapTop\bin\QLShopLapTop.pdb
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Web_ShopLapTop\QLShopLapTop\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Web_ShopLapTop\QLShopLapTop\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Web_ShopLapTop\QLShopLapTop\bin\System.Web.Razor.dll
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Web_ShopLapTop\QLShopLapTop\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Web_ShopLapTop\QLShopLapTop\bin\System.Web.Webpages.dll
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Web_ShopLapTop\QLShopLapTop\bin\System.Web.Webpages.Razor.dll
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Web_ShopLapTop\QLShopLapTop\bin\System.Web.Razor.xml
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Web_ShopLapTop\QLShopLapTop\bin\System.Web.Webpages.xml
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Web_ShopLapTop\QLShopLapTop\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Web_ShopLapTop\QLShopLapTop\bin\System.Web.Webpages.Razor.xml
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Web_ShopLapTop\QLShopLapTop\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Web_ShopLapTop\QLShopLapTop\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Web_ShopLapTop\QLShopLapTop\obj\Debug\QLShopLapTop.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Web_ShopLapTop\QLShopLapTop\obj\Debug\QLShopLapTop.dll
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Web_ShopLapTop\QLShopLapTop\obj\Debug\QLShopLapTop.pdb

@@ -1,0 +1,31 @@
+﻿@using QLShopLapTop.Models;
+@model List<SANPHAM>
+@{
+    ViewBag.Title = "SanPhamTheoNCC";
+    Layout = "~/Views/Shared/UserView.cshtml";
+}
+<h2>Sản Phẩm</h2>
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-4" style="text-align: center">
+            <img src="@Url.Content("~/Images/"+item.HinhAnh)" width="200px" height="100px alt=" image">
+            @if (item.TenSP.Length > 30)
+            {
+                <p>
+                    <strong title="item.TenSP"> @item.TenSP.Substring(0, 30)...</strong><br />
+                    <a href="@Url.Action("ChiTietSanPham", "SanPham", new { @pMaSP = item.MaSP })">MUA NGAY</a>
+                </p>
+            }
+            else
+            {
+                <p>
+                    <strong title="item.TenSP">@item.TenSP</strong><br />
+                    <a href="@Url.Action("ChiTietSanPham", "SanPham", new { @pMaSP = item.MaSP })">MUA NGAY</a>
+                </p>
+            }
+        </div>
+    }
+</div>
+
+

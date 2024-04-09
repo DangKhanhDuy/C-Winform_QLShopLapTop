@@ -1,0 +1,77 @@
+D:\HOCTAP\QLBanLaptop\ThietKeControls\bin\Debug\ThietKeControls.dll
+D:\HOCTAP\QLBanLaptop\ThietKeControls\bin\Debug\ThietKeControls.pdb
+D:\HOCTAP\QLBanLaptop\ThietKeControls\obj\Debug\ThietKeControls.dll
+D:\HOCTAP\QLBanLaptop\ThietKeControls\obj\Debug\ThietKeControls.pdb
+D:\HOCTAP\QLBanLaptop\ThietKeControls\bin\Debug\BLL.dll
+D:\HOCTAP\QLBanLaptop\ThietKeControls\bin\Debug\DTO.dll
+D:\HOCTAP\QLBanLaptop\ThietKeControls\bin\Debug\DAL.dll
+D:\HOCTAP\QLBanLaptop\ThietKeControls\bin\Debug\BLL.pdb
+D:\HOCTAP\QLBanLaptop\ThietKeControls\bin\Debug\DTO.pdb
+D:\HOCTAP\QLBanLaptop\ThietKeControls\bin\Debug\DAL.pdb
+D:\HOCTAP\QLBanLaptop\ThietKeControls\obj\Debug\ThietKeControls.csprojResolveAssemblyReference.cache
+E:\QLShopLaptop\ThietKeControls\bin\Debug\ThietKeControls.dll
+E:\QLShopLaptop\ThietKeControls\bin\Debug\ThietKeControls.pdb
+E:\QLShopLaptop\ThietKeControls\bin\Debug\BLL.dll
+E:\QLShopLaptop\ThietKeControls\bin\Debug\DTO.dll
+E:\QLShopLaptop\ThietKeControls\bin\Debug\DAL.dll
+E:\QLShopLaptop\ThietKeControls\bin\Debug\BLL.pdb
+E:\QLShopLaptop\ThietKeControls\bin\Debug\DTO.pdb
+E:\QLShopLaptop\ThietKeControls\bin\Debug\DAL.pdb
+E:\QLShopLaptop\ThietKeControls\obj\Debug\ThietKeControls.csprojResolveAssemblyReference.cache
+E:\QLShopLaptop\ThietKeControls\obj\Debug\ThietKeControls.dll
+E:\QLShopLaptop\ThietKeControls\obj\Debug\ThietKeControls.pdb
+C:\Users\ASUS\Videos\QLShopLaptop\ThietKeControls\bin\Debug\ThietKeControls.dll
+C:\Users\ASUS\Videos\QLShopLaptop\ThietKeControls\bin\Debug\ThietKeControls.pdb
+C:\Users\ASUS\Videos\QLShopLaptop\ThietKeControls\bin\Debug\BLL.dll
+C:\Users\ASUS\Videos\QLShopLaptop\ThietKeControls\bin\Debug\DTO.dll
+C:\Users\ASUS\Videos\QLShopLaptop\ThietKeControls\bin\Debug\DAL.dll
+C:\Users\ASUS\Videos\QLShopLaptop\ThietKeControls\bin\Debug\BLL.pdb
+C:\Users\ASUS\Videos\QLShopLaptop\ThietKeControls\bin\Debug\DTO.pdb
+C:\Users\ASUS\Videos\QLShopLaptop\ThietKeControls\bin\Debug\DAL.pdb
+C:\Users\ASUS\Videos\QLShopLaptop\ThietKeControls\obj\Debug\ThietKeControls.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Videos\QLShopLaptop\ThietKeControls\obj\Debug\ThietKeControls.dll
+C:\Users\ASUS\Videos\QLShopLaptop\ThietKeControls\obj\Debug\ThietKeControls.pdb
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\ThietKeControls\bin\Debug\ThietKeControls.dll
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\ThietKeControls\bin\Debug\ThietKeControls.pdb
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\ThietKeControls\bin\Debug\BLL.dll
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\ThietKeControls\bin\Debug\DTO.dll
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\ThietKeControls\bin\Debug\DAL.dll
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\ThietKeControls\bin\Debug\BLL.pdb
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\ThietKeControls\bin\Debug\DTO.pdb
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\ThietKeControls\bin\Debug\DAL.pdb
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\ThietKeControls\obj\Debug\ThietKeControls.csprojResolveAssemblyReference.cache
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\ThietKeControls\obj\Debug\ThietKeControls.dll
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\ThietKeControls\obj\Debug\ThietKeControls.pdb
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\ThietKeControls\bin\Debug\ThietKeControls.dll
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\ThietKeControls\bin\Debug\ThietKeControls.pdb
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\ThietKeControls\bin\Debug\BLL.dll
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\ThietKeControls\bin\Debug\DTO.dll
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\ThietKeControls\bin\Debug\DAL.dll
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\ThietKeControls\bin\Debug\BLL.pdb
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\ThietKeControls\bin\Debug\DTO.pdb
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\ThietKeControls\bin\Debug\DAL.pdb
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\ThietKeControls\obj\Debug\ThietKeControls.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\ThietKeControls\obj\Debug\ThietKeControls.dll
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\ThietKeControls\obj\Debug\ThietKeControls.pdb
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\ThietKeControls\bin\Debug\ThietKeControls.dll
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\ThietKeControls\bin\Debug\ThietKeControls.pdb
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\ThietKeControls\bin\Debug\BLL.dll
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\ThietKeControls\bin\Debug\DTO.dll
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\ThietKeControls\bin\Debug\DAL.dll
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\ThietKeControls\bin\Debug\BLL.pdb
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\ThietKeControls\bin\Debug\DTO.pdb
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\ThietKeControls\bin\Debug\DAL.pdb
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\ThietKeControls\obj\Debug\ThietKeControls.csprojResolveAssemblyReference.cache
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\ThietKeControls\obj\Debug\ThietKeControls.dll
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\ThietKeControls\obj\Debug\ThietKeControls.pdb
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\ThietKeControls\bin\Debug\ThietKeControls.dll
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\ThietKeControls\bin\Debug\ThietKeControls.pdb
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\ThietKeControls\bin\Debug\BLL.dll
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\ThietKeControls\bin\Debug\DTO.dll
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\ThietKeControls\bin\Debug\DAL.dll
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\ThietKeControls\bin\Debug\BLL.pdb
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\ThietKeControls\bin\Debug\DTO.pdb
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\ThietKeControls\bin\Debug\DAL.pdb
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\ThietKeControls\obj\Debug\ThietKeControls.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\ThietKeControls\obj\Debug\ThietKeControls.dll
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\ThietKeControls\obj\Debug\ThietKeControls.pdb

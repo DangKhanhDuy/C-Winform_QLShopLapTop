@@ -1,0 +1,60 @@
+﻿@model QLShopLapTop.Models.SANPHAM
+@{
+    ViewBag.Title = "ChiTietSanPham";
+    Layout = "~/Views/Shared/UserView.cshtml";
+}
+<div class="product-grid">
+    <div class="card border-dark">
+        <table class="border-dark mx-3 mb-3 mt-3">
+            <tr class="text-justify">
+                <td rowspan="8" width="45%">
+                    <img class="card-header" src="~/Images/@Model.HinhAnh" width="100%" height="70%" alt="Image" />
+                </td>
+                <td width="20%">Tên sản phẩm: </td>
+                <td width="35%" style="font-weight:bold; color:blue">@Model.TenSP</td>
+            </tr>
+            <tr class="text-left">
+                <td>CPU: </td>
+                <td class="text-justify">@Model.CPU</td>
+            </tr>
+            <tr class="text-justify">
+                <td>VGA: </td>
+                <td class="text-justify">@Model.VGA</td>
+            </tr>
+            <tr class="text-justify">
+                <td>RAM: </td>
+                <td class="text-justify">@Model.RAM </td>
+            </tr>
+            <tr class="text-justify">
+                <td>DISPLAY: </td>
+                <td class="text-justify">@Model.DISPLAY</td>
+            </tr>     
+            <tr class="text-justify">
+                <td>Số lượng: </td>
+                <td style="color:blue">còn @Model.SoLuong</td>
+            </tr>
+            <tr class="text-justify">
+                <td>Giá bán: </td>
+                <td style="font-weight:bold; color:red">@string.Format("{0:0,0}", @Model.GiaBan) VNĐ </td>
+            </tr>
+            <tr class="text-justify">
+                <td>Nhà cung cấp: </td>
+                <td class="text-justify">@Model.NHACUNGCAP.TenNCC</td>
+            </tr>
+            
+        </table>
+        <table>
+            <tr>
+                <td>
+                    <a href="@Url.Action("ThemGioHang", "GioHang", new { @MaSP = Model.MaSP, @strURL = Request.Url.ToString() })">
+                        <input type="submit" value="THÊM VÀO GIỎ HÀNG" class="btn btn-primary" style="width: 300px; height: 50px" />
+                    </a>
+                    <a href="@Url.Action("ShowSanPham","SanPham") ">
+                        <input type="submit" value="MUA TIẾP" class="btn btn-primary" style="width: 300px; height: 50px" />
+                    </a>
+                </td>
+            </tr>
+        </table>
+        <br/>
+    </div>
+</div>

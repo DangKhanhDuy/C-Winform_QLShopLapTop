@@ -1,0 +1,38 @@
+﻿@model QLShopLapTop.Models.KHACHHANG
+@using QLShopLapTop.Models
+@{
+    ViewBag.Title = "DangNhap";
+    Layout = "~/Views/Shared/UserView.cshtml";
+}
+
+<h2>ĐĂNG NHẬP TÀI KHOẢN</h2>
+<table class="table">
+    @using (Html.BeginForm(FormMethod.Post))
+    {
+        <p>
+            <label>Username</label>
+            @Html.TextBoxFor(model => model.SDT)
+        </p>
+        <p>
+            <label>Password</label>
+            @Html.PasswordFor(model => model.MATKHAU)
+        </p>
+        <p>
+            <input class="button" type="submit" value="Đăng nhập">
+        </p>
+    }
+</table>
+<div>
+    <p>
+        Không có tài khoản? đăng ký
+        <a href="">
+            @Html.ActionLink("tại đây !", "DangKy", "NguoiDung")
+        </a>
+    </p>
+</div>
+<h5 style="color:red; text-align:center;">@ViewBag.TB</h5>
+@if (Session["SDT"] != null)
+{
+    Html.RenderAction("ShowSanPham", "SanPham");
+}
+

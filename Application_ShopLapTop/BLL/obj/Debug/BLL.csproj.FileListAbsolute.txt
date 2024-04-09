@@ -1,0 +1,67 @@
+D:\HOCTAP\PTUDPMTM\QLShopLaptop\BLL\bin\Debug\BLL.dll
+D:\HOCTAP\PTUDPMTM\QLShopLaptop\BLL\bin\Debug\BLL.pdb
+D:\HOCTAP\PTUDPMTM\QLShopLaptop\BLL\obj\Debug\BLL.dll
+D:\HOCTAP\PTUDPMTM\QLShopLaptop\BLL\obj\Debug\BLL.pdb
+D:\HOCTAP\QLBanLaptop\BLL\bin\Debug\BLL.dll
+D:\HOCTAP\QLBanLaptop\BLL\bin\Debug\BLL.pdb
+D:\HOCTAP\QLBanLaptop\BLL\bin\Debug\DAL.dll
+D:\HOCTAP\QLBanLaptop\BLL\bin\Debug\DTO.dll
+D:\HOCTAP\QLBanLaptop\BLL\bin\Debug\DAL.pdb
+D:\HOCTAP\QLBanLaptop\BLL\bin\Debug\DTO.pdb
+D:\HOCTAP\QLBanLaptop\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\HOCTAP\QLBanLaptop\BLL\obj\Debug\BLL.dll
+D:\HOCTAP\QLBanLaptop\BLL\obj\Debug\BLL.pdb
+E:\QLShopLaptop\BLL\bin\Debug\BLL.dll
+E:\QLShopLaptop\BLL\bin\Debug\BLL.pdb
+E:\QLShopLaptop\BLL\bin\Debug\DAL.dll
+E:\QLShopLaptop\BLL\bin\Debug\DTO.dll
+E:\QLShopLaptop\BLL\bin\Debug\DAL.pdb
+E:\QLShopLaptop\BLL\bin\Debug\DTO.pdb
+E:\QLShopLaptop\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\QLShopLaptop\BLL\obj\Debug\BLL.dll
+E:\QLShopLaptop\BLL\obj\Debug\BLL.pdb
+C:\Users\ASUS\Videos\QLShopLaptop\BLL\bin\Debug\BLL.dll
+C:\Users\ASUS\Videos\QLShopLaptop\BLL\bin\Debug\BLL.pdb
+C:\Users\ASUS\Videos\QLShopLaptop\BLL\bin\Debug\DAL.dll
+C:\Users\ASUS\Videos\QLShopLaptop\BLL\bin\Debug\DTO.dll
+C:\Users\ASUS\Videos\QLShopLaptop\BLL\bin\Debug\DAL.pdb
+C:\Users\ASUS\Videos\QLShopLaptop\BLL\bin\Debug\DTO.pdb
+C:\Users\ASUS\Videos\QLShopLaptop\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Videos\QLShopLaptop\BLL\obj\Debug\BLL.dll
+C:\Users\ASUS\Videos\QLShopLaptop\BLL\obj\Debug\BLL.pdb
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\BLL\bin\Debug\BLL.dll
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\BLL\bin\Debug\BLL.pdb
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\BLL\bin\Debug\DAL.dll
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\BLL\bin\Debug\DTO.dll
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\BLL\bin\Debug\DAL.pdb
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\BLL\bin\Debug\DTO.pdb
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\BLL\obj\Debug\BLL.dll
+E:\HK_7\PTPMUD_ThongMinh\QLShopLaptop(1)\QLShopLaptop\BLL\obj\Debug\BLL.pdb
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\BLL\bin\Debug\BLL.dll
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\BLL\bin\Debug\BLL.pdb
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\BLL\bin\Debug\DAL.dll
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\BLL\bin\Debug\DTO.dll
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\BLL\bin\Debug\DAL.pdb
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\BLL\bin\Debug\DTO.pdb
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\BLL\obj\Debug\BLL.dll
+C:\Users\ASUS\Music\QLShopLaptop(1) (1)\QLShopLaptop(1)\QLShopLaptop\BLL\obj\Debug\BLL.pdb
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\BLL\bin\Debug\BLL.dll
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\BLL\bin\Debug\BLL.pdb
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\BLL\bin\Debug\DAL.dll
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\BLL\bin\Debug\DTO.dll
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\BLL\bin\Debug\DAL.pdb
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\BLL\bin\Debug\DTO.pdb
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\BLL\obj\Debug\BLL.dll
+D:\Ki1Nam4\QLShopBanLaptop\QLShopLaptop\BLL\obj\Debug\BLL.pdb
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\BLL\bin\Debug\BLL.dll
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\BLL\bin\Debug\BLL.pdb
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\BLL\bin\Debug\DAL.dll
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\BLL\bin\Debug\DTO.dll
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\BLL\bin\Debug\DAL.pdb
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\BLL\bin\Debug\DTO.pdb
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\BLL\obj\Debug\BLL.dll
+C:\Users\ASUS\Downloads\New folder\DoAn_PTUDTM\DoAn_PTUDTM\Application_ShopLapTop\BLL\obj\Debug\BLL.pdb
